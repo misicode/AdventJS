@@ -1,0 +1,15 @@
+{
+  "name": "adventjs",
+  "version": "1.0.0",
+  "description": "Solutions to the adventjs challenges of the year 2021-2024 in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "misicode",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
