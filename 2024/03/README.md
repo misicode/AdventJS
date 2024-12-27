@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://adventjs.dev/es/challenges/2024/3">
-    <img src="../../assets/2024/challenge03.webp" width="100" height="100" />
+    <img src="../../assets/2024/challenge03.webp" height="100" />
   </a>
  </p>
 
