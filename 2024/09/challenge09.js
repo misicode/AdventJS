@@ -1,5 +1,4 @@
 function moveTrain(board, mov) {
-  // Code here
   const position = [];
 
   board.forEach((line, index) => {
