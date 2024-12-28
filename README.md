@@ -36,6 +36,9 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | 07  | El ataque del Grinch                                              | 🟠             | [Ver](./2024/07) |
 | 08  | La carrera de renos                                               | 🟢             | [Ver](./2024/08) |
 | 09  | El tren mágico                                                    | 🟠             | [Ver](./2024/09) |
+| 10  | El ensamblador élfico                                             | 🟠             | [Ver](./2024/10) |
+| 11  | Nombres de archivos codificados                                   | 🟢             | [Ver](./2024/11) |
+| 12  | ¿Cuánto cuesta el árbol?                                          | 🟢             | [Ver](./2024/12) |
 
 </details>
 
