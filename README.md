@@ -3,6 +3,7 @@
   <a href="https://github.com/misicode/AdventJS">
     <img src="./assets/logo.webp" alt="Logo Icon" width="80" height="80">
   </a>
+  <h1 align="center">AdventJS</h1>
 </div><br>
 
 
@@ -39,6 +40,11 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | 10  | El ensamblador élfico                                             | 🟠             | [Ver](./2024/10) |
 | 11  | Nombres de archivos codificados                                   | 🟢             | [Ver](./2024/11) |
 | 12  | ¿Cuánto cuesta el árbol?                                          | 🟢             | [Ver](./2024/12) |
+| 13  | ¿El robot está de vuelta?                                         | 🔴             | [Ver](./2024/13) |
+| 14  | Acomodando los renos                                              | 🟢             | [Ver](./2024/14) |
+| 15  | Dibujando tablas                                                  | 🟢             | [Ver](./2024/15) |
+| 16  | Limpiando la nieve del camino                                     | 🟢             | [Ver](./2024/16) |
+| 17  | Busca las bombas del Grinch                                       | 🟠             | [Ver](./2024/17) |
 
 </details>
 

@@ -3,7 +3,7 @@ function createFrame(names) {
   const maxLength = Math.max(...namesLength);
   const chain = "*".repeat(maxLength + 4);
   
-  const framedNames = names.map(name => "* " + name + " ".repeat(maxLength - name.length) + " *");
+  const framedNames = names.map(name => "* " + name.padEnd(maxLength) + " *");
   return [chain, ...framedNames, chain].join("\n");
 }
 
