@@ -45,6 +45,8 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | 15  | Dibujando tablas                                                  | 🟢             | [Ver](./2024/15) |
 | 16  | Limpiando la nieve del camino                                     | 🟢             | [Ver](./2024/16) |
 | 17  | Busca las bombas del Grinch                                       | 🟠             | [Ver](./2024/17) |
+| 18  | La agenda mágica de Santa                                         | 🔴             | [Ver](./2024/18) |
+| 19  | Apila cajas mágicas para repartir regalos                         | 🔴             | [Ver](./2024/19) |
 
 </details>
 
