@@ -47,6 +47,8 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | 17  | Busca las bombas del Grinch                                       | 🟠             | [Ver](./2024/17) |
 | 18  | La agenda mágica de Santa                                         | 🔴             | [Ver](./2024/18) |
 | 19  | Apila cajas mágicas para repartir regalos                         | 🔴             | [Ver](./2024/19) |
+| 20  | Encuentra los regalos faltantes y duplicados                      | 🟢             | [Ver](./2024/20) |
+| 21  | Calcula la altura del árbol de Navidad                            | 🟢             | [Ver](./2024/21) |
 
 </details>
 
