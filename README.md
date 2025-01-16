@@ -51,6 +51,9 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | 21  | Calcula la altura del árbol de Navidad                            | 🟢             | [Ver](./2024/21) |
 | 22  | Genera combinaciones de regalos                                   | 🟠             | [Ver](./2024/22) |
 | 23  | Encuentra los números perdidos                                    | 🟢             | [Ver](./2024/23) |
+| 24  | Verifica si los árboles son espejos mágicos                       | 🟠             | [Ver](./2024/24) |
+| 25  | Ejecuta el lenguaje mágico                                        | 🟠             | [Ver](./2024/25) |
+| 26  | Calcula el porcentaje completado                                  | 🟢             | [Ver](./2024/26) |
 
 </details>
 
