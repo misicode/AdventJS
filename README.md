@@ -29,6 +29,7 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 | Día | Título                                                            | Dificultad[^*] | Solución         |
 | :-: | ----------------------------------------------------------------- | :------------: | :--------------: |
 | 01  | Filtrar los regalos defectuosos                                   | 🟢             | [Ver](./2025/01) |
+| 02  | Fabrica los juguetes                                              | 🟢             | [Ver](./2025/02) |
 
 </details>
 
