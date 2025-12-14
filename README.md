@@ -23,7 +23,7 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 <summary><h3>2024 🎁</h3></summary>
 
 <p></p>
-<img src="https://adventjs.dev/og.webp" width="630" />
+<img src="https://github.com/user-attachments/assets/28e81be2-6976-47ad-902d-74c0d84acd30" width="630" />
 <p></p>
 
 | Día | Título                                                            | Dificultad[^*] | Solución         |
@@ -62,7 +62,7 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 <summary><h3>2023 👾</h3></summary>
 
 <p></p>
-<img src="https://github.com/misicode/CL-AdventJS2023/assets/88341114/420718c2-504a-45de-b567-bf8504e0d0c8" width="630" />
+<img src="https://github.com/user-attachments/assets/13aa3a4d-e99f-4640-b554-56d3efb920df" width="630" />
 <p></p>
 
 | Día | Título                                                            | Dificultad[^*] | Solución        |
