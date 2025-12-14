@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## 📖 Acerca del repositorio
 
-Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de las ediciones del 2021 al 2024. Retos de programación adaptados al calendario de adviento, del 1 al 24 de diciembre.
+Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de las ediciones del 2021 al 2025. Retos de programación adaptados al calendario de adviento, del 1 al 24 de diciembre.
 
 ### Iniciativa de
 
@@ -19,6 +19,20 @@ Soluciones con JavaScript de los retos del [AdventJS](https://adventjs.dev/) de 
 ### Challenges
 
 <details open>
+
+<summary><h3>2025 🔔</h3></summary>
+
+<p></p>
+<img src="https://github.com/user-attachments/assets/9c35e4e0-bd8b-4ca0-bcbf-1ee126fe333e" width="630" />
+<p></p>
+
+| Día | Título                                                            | Dificultad[^*] | Solución         |
+| :-: | ----------------------------------------------------------------- | :------------: | :--------------: |
+| 01  | Filtrar los regalos defectuosos                                   | 🟢             | [Ver](./2025/01) |
+
+</details>
+
+<details hide>
 
 <summary><h3>2024 🎁</h3></summary>
 
